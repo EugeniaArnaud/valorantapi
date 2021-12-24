@@ -11,7 +11,7 @@
  }
 
 body {
-  background: rgb(138, 22, 22);
+  background: rgb(163, 33, 33);
  }
 
 
@@ -34,7 +34,7 @@ body {
 }
 
 .card {
-  background: #f7c4bb;
+  background: #f5d3d3;
   border: none;
   box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, .3);
   border-radius: 20px;
